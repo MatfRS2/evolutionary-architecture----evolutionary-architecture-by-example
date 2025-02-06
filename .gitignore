@@ -38,3 +38,5 @@ msbuild.wrn
 
 node_modules/
 dist/
+Chapter-3-microservice-extraction/Fitnet.Contracts/Src/Dockerfile.env
+Chapter-3-microservice-extraction/Fitnet/Src/Dockerfile.env
